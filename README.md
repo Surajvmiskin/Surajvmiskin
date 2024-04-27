@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/https://linkedin.com/in/suraj-v-miskin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/suraj-v-miskin" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/surajvmiskin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/surajvmiskin" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/surajvmiskin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/surajvmiskin/" height="30" width="40" /></a>
- <a href="https://surajvmiskin.bss.design/" target="blank"><img align="center" src="YOUR_LOGO_URL" alt="Portfolio" height="30" width="40" /></a> 
+ <a href="https://surajvmiskin.bss.design/" target="blank"><img align="center" src="https://surajvmiskin.bss.design/assets/img/logo.png?h=a0e39d4aed6962669ce9083ddf73a478" alt="Portfolio" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
