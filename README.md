@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajvmiskin&label=Profile%20views&color=0e75b6&style=flat" alt="surajvmiskin" /> </p>
 
-<p align="left"> <a href="https://surajvmiskin.bss.design/" target="blank"><img src="https://img.shields.io/twitter/surajvmiskin?logo=twitter&style=for-the-badge" alt="surajvmiskin" /></a> </p>
+<p align="left"> <a href="https://surajvmiskin.bss.design/" target="blank"><img src="https://img.shields.io/twitter/follow/surajvmiskin?logo=twitter&style=for-the-badge" alt="surajvmiskin" /></a> </p>
 
 - 🌱 I’m currently learning **TensorFlow, Flask**
 
